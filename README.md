@@ -26,7 +26,7 @@ Clone the repo and install the required libraries:
 ``` 
 pip install -r requirements.txt  
 ```
-** Or Install Manually: **
+**Or Install Manually:**
 ```
 pip install opencv-python        # Webcam & image processing
 pip install face-recognition     # Face detection and matching
@@ -36,7 +36,7 @@ pip install streamlit            # Frontend UI
 ```
 🧠 `datetime` is part of Python’s standard library and does not require installation.
 
-#🚦 How It Works
+# 🚦 How It Works
 1. Teacher logs in and selects subject, date, and time.
 
 2. Webcam starts scanning faces in real-time (every 3 seconds).
